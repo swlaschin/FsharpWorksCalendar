@@ -1,0 +1,19 @@
+FRAMEWORK: NET45
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.1.17)
+      System.ValueTuple (>= 4.3)
+    Google.Apis (1.25)
+      Google.Apis.Core (>= 1.25)
+      Zlib.Portable.Signed (>= 1.11)
+    Google.Apis.Auth (1.25)
+      Google.Apis (>= 1.25)
+      Google.Apis.Core (>= 1.25)
+    Google.Apis.Calendar.v3 (1.25.0.822)
+      Google.Apis (>= 1.25)
+      Google.Apis.Auth (>= 1.25)
+    Google.Apis.Core (1.25)
+      Newtonsoft.Json (>= 7.0.1)
+    Newtonsoft.Json (10.0.2)
+    System.ValueTuple (4.3)
+    Zlib.Portable.Signed (1.11)
